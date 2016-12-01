@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "The Ordinary Developer"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Jakub Gruszka"
+description              : "The ordinary developer blog."
+url                      : "https://kubagruszka.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Jakub Gruszka"
+  avatar           : "/assets/images/photo-jgruszka-2015-square-small.jpg"
+  bio              : "Software Developer"
+  location         : "Katowice"
+  email            : "kubagruszka@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -89,18 +89,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "kubagruszka"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "kubagruszka"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  stackoverflow    : "3446118/kubagruszka"
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "jakgru"
   vine             :
   weibo            :
   xing             :
