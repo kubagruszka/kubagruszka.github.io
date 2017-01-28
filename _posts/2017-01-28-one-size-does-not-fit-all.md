@@ -1,4 +1,4 @@
-#Lessons learnt from Stefan's Tilkov GOTO 2016 presentation
+Lessons learnt from Stefan's Tilkov GOTO 2016 presentation
 
 I've watched yesterday [this](https://www.youtube.com/watch?v=xc05w7-gWmE&t) nice video on youtube from GOTO 2016 where Stefan Tilkov has described different sizes of microservices. I've decided to list few things I've learnt from his talk.
 
